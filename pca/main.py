@@ -88,7 +88,7 @@ def pca_self(df, number, label_mode="none"):
 
 
 # ---------- 读数据 ----------
-df = pd.read_csv("/Users/liulin/Downloads/TPM_LiY_WT_excludeSpecials.tsv", sep="\t", index_col=0)
+df = pd.read_csv("TPM_LiY_WT_excludeSpecials.tsv", sep="\t", index_col=0)
 print(df.shape)
 print(df.iloc[:10, :10])
 

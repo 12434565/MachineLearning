@@ -20,9 +20,6 @@ Kmeans is for cluster group
 </div>
 <a href="https://llsp.notion.site/homework2-Kmeans-and-heatmap-2f606d13592280f4afbbfc2e3799e50b?source=copy_link" target="_blank">report file</a>
 
-## Navie bys
-Predict result through condition. could be calculate by hand.
-
 ## Heatmap
 <div style="display:flex; justify-content:center;">
   <img src="./04heatmap/heatmap_all_genes_all_samples.png" width="45%">
@@ -32,7 +29,13 @@ Predict result through condition. could be calculate by hand.
   <img src="./04heatmap/heatmap_notallsamples_top30_highest_expression.png" width="45%">
   <img src="./04heatmap/heatmap_top30_highest_expression.png" width="45%">
 </div>
+<a href="https://llsp.notion.site/Homework2-Heatmap-32106d13592280ed9a0bea236e090644?source=copy_link" target="_blank">report file</a>
+
+## Navie bys
+Predict result through condition. could be calculate by hand.
 <a href="https://llsp.notion.site/homework3-navie-bys-2f706d135922802e953ae9b34f43ada8?source=copy_link" target="_blank">report file</a>
+
+
 
 ## Decision Tree
 

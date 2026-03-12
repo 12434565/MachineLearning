@@ -8,7 +8,6 @@ remember to transpose before drawing the plot
   <img src="./pca/pca_1.png" width="45%">
   <img src="./pca/pca_2.png" width="45%">
 </div>
----
 
 ## Kmeans and PCA
 Kmeans is for cluster group
@@ -18,3 +17,7 @@ Kmeans is for cluster group
   <img src="./kmeans_and_pca/kmeans_pca_e_outline.png" width="33%">
   <img src="./kmeans_and_pca/kmeans_pca_2.png" width="33%">
 </div>
+
+## Navie bys
+Predict result through condition. could be calculate by hand.
+

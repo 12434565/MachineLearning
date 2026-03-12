@@ -32,7 +32,7 @@ Predict result through condition. could be calculate by hand.
 </div>
 
 ## Decision Tree
-</div>
+
 <div style="display:flex; justify-content:center;">
   <!-- <img src="./05decisionTree/gv_test.png" width="45%"> -->
   <img src="./05decisionTree/tree.png" width="45%">
@@ -40,3 +40,20 @@ Predict result through condition. could be calculate by hand.
 
 ## Logistic Regression
 
+
+## Nuralnetwork
+<div style="display:flex; justify-content:center;">
+  <!-- <img src="./05decisionTree/gv_test.png" width="45%"> -->
+  <img src="./07nuralnetwork/plot_1.png" width="45%">
+  <img src="./07nuralnetwork/roc_01.png" width="45%">
+</div>
+<div style="display:flex; justify-content:center;">
+  <!-- <img src="./05decisionTree/gv_test.png" width="45%"> -->
+  <img src="./07nuralnetwork/plot.png" width="45%">
+  <img src="./07nuralnetwork/roc.png" width="45%">
+</div>
+
+## multiple input nural network
+<div style="display:flex; justify-content:center;">
+  <img src="./07nuralnetwork/nn2/roc.png" width="45%">
+</div>

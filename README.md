@@ -33,6 +33,7 @@ Kmeans is for cluster group
 
 ## Navie bys
 Predict result through condition. could be calculate by hand.
+
 <a href="https://llsp.notion.site/homework3-navie-bys-2f706d135922802e953ae9b34f43ada8?source=copy_link" target="_blank">report file</a>
 
 

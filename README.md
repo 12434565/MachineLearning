@@ -34,6 +34,9 @@ Predict result through condition. could be calculate by hand.
 ## Decision Tree
 </div>
 <div style="display:flex; justify-content:center;">
-  <img src="./05decisionTree/gv_test.png" width="45%">
+  <!-- <img src="./05decisionTree/gv_test.png" width="45%"> -->
   <img src="./05decisionTree/tree.png" width="45%">
 </div>
+
+## Logistic Regression
+

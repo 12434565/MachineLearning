@@ -1,1 +1,0 @@
-silhouette_score (k=4, use_n_pcs=2) = 0.4587

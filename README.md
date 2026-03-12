@@ -21,3 +21,12 @@ Kmeans is for cluster group
 ## Navie bys
 Predict result through condition. could be calculate by hand.
 
+## Heatmap
+<div style="display:flex; justify-content:center;">
+  <img src="./04heatmap/heatmap_all_genes_all_samples.png" width="45%">
+  <img src="./04heatmap/heatmap_all_genes_not_all_samples.png" width="45%">
+</div>
+<div style="display:flex; justify-content:center;">
+  <img src="./04heatmap/heatmap_notallsamples_top30_highest_expression.png" width="45%">
+  <img src="./04heatmap/heatmap_top30_highest_expression.png" width="45%">
+</div>

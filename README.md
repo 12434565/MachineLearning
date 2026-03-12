@@ -32,8 +32,7 @@ Kmeans is for cluster group
 <a href="https://llsp.notion.site/Homework2-Heatmap-32106d13592280ed9a0bea236e090644?source=copy_link" target="_blank">report file</a>
 
 ## Navie bys
-Predict result through condition. could be calculate by hand.
-
+Predict result through condition. could be calculate by hand.<br>
 <a href="https://llsp.notion.site/homework3-navie-bys-2f706d135922802e953ae9b34f43ada8?source=copy_link" target="_blank">report file</a>
 
 

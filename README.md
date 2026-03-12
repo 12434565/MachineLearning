@@ -30,3 +30,10 @@ Predict result through condition. could be calculate by hand.
   <img src="./04heatmap/heatmap_notallsamples_top30_highest_expression.png" width="45%">
   <img src="./04heatmap/heatmap_top30_highest_expression.png" width="45%">
 </div>
+
+## Decision Tree
+</div>
+<div style="display:flex; justify-content:center;">
+  <img src="./05decisionTree/gv_test.png" width="45%">
+  <img src="./05decisionTree/tree.png" width="45%">
+</div>
